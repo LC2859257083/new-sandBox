@@ -1851,10 +1851,10 @@
   resolved "https://registry.yarnpkg.com/@rainbow-me/rainbowkit-siwe-next-auth/-/rainbowkit-siwe-next-auth-0.3.4.tgz#333fbf373ced5a8c4fdfe863877eb71300d9722d"
   integrity sha512-D32nLnHXMYxZDjtNqS8z1oGN78EubH8tPaSYUNwxOCT4DziMySBnEayXa5mt2uAIilWrttvgylBiBYZ0h+BC4A==
 
-"@rainbow-me/rainbowkit@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@rainbow-me/rainbowkit/-/rainbowkit-1.3.1.tgz#b5add291363e77dd9cb09496f65dd3b8c2236df5"
-  integrity sha512-4Upi+S12ZHosimzlUpCiOocg4dtfGU2wkzcpxeat/FYHrvhVIOgm0TuzbsIM96W1p7OXabosd7xuxPvwduUygQ==
+"@rainbow-me/rainbowkit@^1.3.2":
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/@rainbow-me/rainbowkit/-/rainbowkit-1.3.2.tgz#fab19ef33bc9bce5d00cb12e5da34efcd181cf63"
+  integrity sha512-Q3e8z8iKYliyzwW2uIYkxMtaIhoLAbE62HM126ZCPSZgxjFFRmy/rQiqRAirznCPARf6lX1uQOFQkrKWfVqL2Q==
   dependencies:
     "@vanilla-extract/css" "1.9.1"
     "@vanilla-extract/dynamic" "2.0.2"
